@@ -7,3 +7,4 @@ release1
 release2
 release bugfixes
 release finish
+last release
